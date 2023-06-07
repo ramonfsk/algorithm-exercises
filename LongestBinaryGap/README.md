@@ -6,7 +6,7 @@ For example, number 9 has binary representation 1001 and contains a binary gap o
 
 Write a function:
 
-```swift
+```
 class Solution { public int solution(int N); }
 ```
 
