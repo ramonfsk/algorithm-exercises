@@ -30,8 +30,8 @@ the function should return [0, 0, 0]
 
 Given
 ```
-    A = [1, 2, 3, 4]
-    K = 4
+  A = [1, 2, 3, 4]
+  K = 4
 ```
 the function should return [1, 2, 3, 4]
 
